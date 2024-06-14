@@ -2,4 +2,4 @@
 
 > 데이터 분석 전문가 양성과정
 
-[imbank](/git_image.png)
+![imbank](/git_image.png)
