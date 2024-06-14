@@ -20,3 +20,12 @@ pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install numpy
 
 ## 목차
   - [깃허브](/day_OT)
+  - [파이썬 기초 및 문법](/data/python.txt)
+  - [데이터 분석 기초](/)
+  - [시각화](/)
+  - [가설검정](/)
+  - [머신러닝 및 특성공학](/)
+## 문의사항
+궁금한 사항이 있으면 메일 남겨주세요.
+
+[im@digitalbanker.com](/https://www.google.com)
