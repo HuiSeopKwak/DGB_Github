@@ -42,6 +42,8 @@ _언더바 하나도 기울임_
 
 [day_OT](/day_OT)
 
+[텍스트 확인하기](/day_OT/github.txt)
+
 [naver.com](https://www.naver.com)
 
 테이블 만들기
